@@ -1,5 +1,6 @@
 import './stylesheets/main.css';
 import React from 'react';
+import ReactDOM from 'react-dom';
 import Hello from './src/components/hello';
 
 // init shell
